@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: How would your Garfield Life had been?
-datePublished: '2016-03-24T16:16:34.630Z'
-dateModified: '2016-03-24T16:16:09.916Z'
-title: ''
+description: 'If you were not stuck up in your shitty job 5 or 7 days a week and if you had an alternative, how would your life had been?'
+datePublished: '2016-03-24T16:21:27.419Z'
+dateModified: '2016-03-24T16:21:17.512Z'
+title: How would your Garfield Life had been?
 author: []
+sourcePath: _posts/2016-03-24-how-would-your-garfield-life-had-been.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-how-would-your-garfield-life-had-been.md
-published: true
 url: how-would-your-garfield-life-had-been/index.html
 _type: Article
 
 ---
-How would your Garfield Life had been?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eeb8006-289f-41f8-a299-fe7b2bfd03bc.gif)
 
 If you were not stuck up in your shitty job 5 or 7 days a week and if you had an alternative, how would your life had been?
 
