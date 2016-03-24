@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[the garfield life]]></title>
         <description><![CDATA[the garfield life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-garfield-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:16:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 16:22:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-garfield-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>How would your Garfield Life had been?</p>]]></description>
-            <link>undefinedhow-would-your-garfield-life-had-been/index.html</link>
+            <title><![CDATA[How would your Garfield Life had been?]]></title>
+            <description><![CDATA[<article><h1>How would your Garfield Life had been?</h1><p>If you were not stuck up in your shitty job 5 or 7 days a week and if you had an alternative, how would your life had been?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eeb8006-289f-41f8-a299-fe7b2bfd03bc.gif"></article>]]></description>
+            <link>https://thegrid.ai/the-garfield-life/how-would-your-garfield-life-had-been/index.html</link>
             <guid isPermaLink="false">b724bf6c-17ed-442c-a1a3-336fa642afd5</guid>
-            <pubDate>Thu, 24 Mar 2016 16:16:34 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 16:21:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
